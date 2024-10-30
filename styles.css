@@ -32,9 +32,9 @@ h1 {
  .top-centered {
 	position: absolute;
     text-align: center;
-	top: 1%;
+	top: 5%;
 	left: 50%;
-    transform: translate(-1%, -50%);
+    transform: translate(-5%, -50%);
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
     color: white;
