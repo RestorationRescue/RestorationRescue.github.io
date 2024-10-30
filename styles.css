@@ -30,7 +30,7 @@ h1 {
     font-size: 150%;
 }
  .top-line {
-	position: absolute;
+	position: relative;
     text-align: center;
 	top: 8px;
 	left: 50%;
