@@ -30,15 +30,12 @@ h1 {
     font-size: 150%;
 }
  .top-centered {
-	position: absolute;
+    position: relative;
     text-align: center;
-	top: 5%;
-	left: 50%;
-    transform: translate(-5%, -50%);
+    color: white;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
-    color: white;
-	font-size: 150%;
+    font-size: 125%;
 }
 
  .subscribe-text {
