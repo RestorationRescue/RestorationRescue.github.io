@@ -30,7 +30,9 @@ h1 {
     font-size: 150%;
 }
  .top-line {
-    text-align: center;
+	position: absolute;
+	top: 8px;
+	left: 50%;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
     color: white;
