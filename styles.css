@@ -71,3 +71,19 @@ h1 {
 	background-color: transparent;
 	text-decoration: none;
 	{
+		
+ .section {
+	 width: 50%;
+	 height: 100%;
+ }
+ 
+ .video {
+	 display: flex;
+	 justify-content: left;
+	 align-items: center;
+ }
+ 
+ .video-section {
+	 width= "600";
+	 height= "340";
+ }
