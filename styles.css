@@ -29,12 +29,14 @@ h1 {
     font-weight: normal;
     font-size: 150%;
 }
- .top-line {
+ .top-centered {
 	position: absolute;
     text-align: center;
-	top: 8px;
+	top: 1%;
 	left: 50%;
+    transform: translate(-1%, -50%);
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
     color: white;
+	font-size: 150%;
 }
