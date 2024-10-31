@@ -93,10 +93,13 @@ h1 {
  }
 
  .text-block {
-	 position: relative;
+	 position: absolute;
 	 top: 10%;
 	 left: 30%;
+	 transform: translate(-30%, -10%);
 	 background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+	 padding: 10px;
+	 border-radius: 5px;
 	 color: white;
 	 padding: 10px;
 	 text-align: left;
