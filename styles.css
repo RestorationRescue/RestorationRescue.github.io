@@ -97,7 +97,7 @@ h1 {
 	top: 25%;
 	left: 50%;
 	transform: translate(-50%, -25%);
-	background-color: #0F0E15; /* Semi-transparent background */
+	background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
 	padding: 10px;
 	border-radius: 5px;
 	color: white;
@@ -107,4 +107,6 @@ h1 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: normal;
 	font-size: normal;
+	justify-content: left;
+
  }
