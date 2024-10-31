@@ -94,10 +94,10 @@ h1 {
 
  .text-block {
 	position: absolute;
-	top: 25%;
+	top: 30%;
 	left: 50%;
-	transform: translate(-50%, -25%);
-	background-color: rgba(0, 0, 0, 0.1); /* Semi-transparent background */
+	transform: translate(-50%, -30%);
+	background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
 	padding: 10px;
 	border-radius: 5px;
 	color: white;
