@@ -93,15 +93,18 @@ h1 {
  }
 
  .text-block {
-	 position: absolute;
-	 top: 25%;
-	 left: 30%;
-	 transform: translate(-30%, -25%);
-	 background-color: #0F0E15; /* Semi-transparent background */
-	 padding: 10px;
-	 border-radius: 5px;
-	 color: white;
-	 padding: 10px;
-	 text-align: left;
-	 z-index: 1;
+	position: absolute;
+	top: 25%;
+	left: 30%;
+	transform: translate(-30%, -25%);
+	background-color: #0F0E15; /* Semi-transparent background */
+	padding: 10px;
+	border-radius: 5px;
+	color: white;
+	padding: 10px;
+	text-align: left;
+	z-index: 1;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+	font-size: normal;
  }
