@@ -94,9 +94,9 @@ h1 {
 
  .text-block {
 	 position: absolute;
-	 top: 1px;
-	 left: 1px;
-	 /* transform: translate(-30%, -10%); */
+	 top: 50%;
+	 left: 50%;
+	 transform: translate(-50%, -50%);
 	 background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
 	 padding: 10px;
 	 border-radius: 5px;
